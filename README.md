@@ -1,5 +1,6 @@
-[![header](https://capsule-render.vercel.app/api?type=rect)
-](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome!&reversal=false&textBg=false&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome!&reversal=false&textBg=false&fontSize=60)
+
+
 
 ### Hi there 👋
 
