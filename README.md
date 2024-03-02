@@ -1,5 +1,6 @@
-![](./profile-3d-contrib/profile-green-animate.svg)
+
 <!--
+![](./profile-3d-contrib/profile-green-animate.svg)
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=welcome!&reversal=false&textBg=false&fontSize=60)
